@@ -1,0 +1,7 @@
+main {
+    background-image: url('../../assets/landing_background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #FFFFFF;
+    height: 100%;
+}
